@@ -1,10 +1,8 @@
 # node-todo-cicd
 
-sudo apt install nodejs
-sudo apt install npm
+For installing Node js use: sudo apt install nodejs
+Than install npm: sudo apt install npm
+Command helps to install packages mentioned in package.json: npm install
 
-
-npm install
-
-node app.js
+To start the app: node app.js
 
